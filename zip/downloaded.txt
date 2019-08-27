@@ -2422,3 +2422,6 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_WIND_SOLAR_SUMMARY&start
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_WIND_SOLAR_SUMMARY&startdatetime=20151231T07:00-0000&enddatetime=20160101T07:00-0000&version=5
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_WIND_SOLAR_SUMMARY&startdatetime=20190820T07:00-0000&enddatetime=20190821T07:00-0000&version=5
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_WIND_SOLAR_SUMMARY&startdatetime=20190821T07:00-0000&enddatetime=20190822T07:00-0000&version=5
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_WIND_SOLAR_SUMMARY&startdatetime=20190822T07:00-0000&enddatetime=20190823T07:00-0000&version=5
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_WIND_SOLAR_SUMMARY&startdatetime=20190823T07:00-0000&enddatetime=20190824T07:00-0000&version=5
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_WIND_SOLAR_SUMMARY&startdatetime=20190824T07:00-0000&enddatetime=20190825T07:00-0000&version=5
